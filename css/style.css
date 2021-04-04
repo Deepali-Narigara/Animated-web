@@ -412,7 +412,7 @@ animation: contactANi 2s alternate infinite;
     #header .fa-bars { display: block;}
     #header nav {
         position: fixed;
-        top: -100%;
+        top: -120%;
         left: 0%;
         height: calc(100vh - 5rem);
         background: #fff;
